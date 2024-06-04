@@ -3,7 +3,7 @@
 # Get points/lines that intersect with polygon/line and print
 # out there attributes in console. Can be edited to update a
 # csv, database, or spreadsheet.
-# Joe Davidson
+# JD
 # Created: 220922
 # Edited: 220922
 #===============================================================
